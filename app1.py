@@ -1,5 +1,6 @@
 {
-print ("hello devops");
-print ("hello again");
+system.out.prntln ("hello kk")
+  
+ 
 
 }
